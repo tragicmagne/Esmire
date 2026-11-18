@@ -1,6 +1,6 @@
 {
-  "version": "V6",
+  "version": "V4",
   "minecraft": "1.21.4",
-  "url": "https://github.com/tragicmagne/Esmire/releases/download/V6/Esmire-V6.jar",
-  "sha256": "df2b60e0d7f41be74defa7498043cc364f3174d00ccaaacf326adea9bfa0f56c"
+  "url": "https://github.com/tragicmagne/Esmire/releases/download/V4/Esmire-V4.jar",
+  "sha256": "ddb27cc59c576dbfbfdbae7b781fd29ce5e23de26c510d6ff0c8792fec8ffdfc"
 }
