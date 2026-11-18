@@ -1,1 +1,6 @@
-
+{
+  "version": "1.0.0",
+  "minecraft": "1.21.4",
+  "url": "https://github.com/tragicmagne/Esmire/releases/download/v1.0.0/Esmire-V3.jar",
+  "sha256": "9d8b699c57d0111bdd6981d6b80291ef01855f4da1fc08a2a62aeaf947498457"
+}
